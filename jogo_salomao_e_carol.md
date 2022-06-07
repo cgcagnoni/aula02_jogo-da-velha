@@ -1,11 +1,11 @@
 # Jogo da velha
 ## Integrantes
-### NOME COMPLETO Caroliny S Q G Cagnoni
-### NOME COMPLETO Salomão Kim
+### Caroliny S Q G Cagnoni
+### Salomão Kim
 
 
 | -  |  A     | B     | C     |
 | -- | :---:  | :---: | :---: |
-| 1  | x      | W     | W     |
-| 2  | O     | W     | W     |
-| 3  | OX      |      | W     
+| 1  | X      | W     | W     |
+| 2  | O      | O     | W     |
+| 3  | X      | W     | W     
