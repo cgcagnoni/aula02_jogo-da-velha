@@ -1,7 +1,7 @@
 # Jogo da velha
 ## Integrantes
-### Caroliny S Q G Cagnoni
-### Salomão Kim
+### Caroliny S Q G Cagnoni (O)
+### Salomão Kim (X)
 
 
 | -  |  A     | B     | C     |
